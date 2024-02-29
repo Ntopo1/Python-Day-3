@@ -1,4 +1,4 @@
-<h1> Python: 100 days of coding Day 3</h1>
+<h1> Python: 100 Days of Coding Challenge: Day 3</h1>
 <h2>Description</h2>
   Learn about Conditional Statements, Logical Operators, Code Blocks, and Scope. At the end of today, I will create a choose-your-own-adventure game to utilize these new tools.<br />
 <br />
